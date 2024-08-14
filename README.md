@@ -23,13 +23,13 @@ This project is a simple sample of integrating the OPA policy engine with Spring
 1. **Clone the repository:**
 
     ```bash
-    git clone
+    git clone https://github.com/HsuehYangYu/opa-integration-spring-boot.git
     ```
    
 2. **Navigate to the project directory:**
 
     ```bash
-    cd 
+    cd opa-integration-spring-boot
     ```
 
 3. **Build the project using Maven:**
